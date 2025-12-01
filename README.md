@@ -1,6 +1,6 @@
 # QLabs PQC Verify - Solidity
 
-**Status**: 🚧 Coming Soon (Beta: Q2 2025)
+**Status**: 🚧 Coming Soon (Beta: Q2 2026)
 
 Solidity library for on-chain verification of PQC signatures.
 
